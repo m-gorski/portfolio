@@ -520,3 +520,41 @@ button.btn.btn-link i {
     transform: rotate(180deg);
     transition: 0.5s;
 }
+
+/* */
+
+.card-body .show-project{
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 36px;
+  box-shadow: 0 10px 20px -8px rgba(0, 0, 0,.7);
+}
+
+.card-body .show-project{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.card-body .show-project:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;  
+  top: 6px;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.card-body .show-project:hover{
+  padding-right: 24px;
+  padding-left:8px;
+}
+
+.card-body .show-project:hover:after {
+  opacity: 1;
+  right: 10px;
+}
