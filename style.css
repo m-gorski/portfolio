@@ -541,6 +541,7 @@ button.btn.btn-link i {
 }
 
 .card-body .show-project:after {
+  color: black;
   content: '»';
   position: absolute;
   opacity: 0;  
