@@ -318,7 +318,7 @@ body {
   }
   
   .header .menu-icon .navicon {
-    background: #333;
+    background: #42DCA3;
     display: block;
     height: 2px;
     position: relative;
@@ -328,7 +328,7 @@ body {
   
   .header .menu-icon .navicon:before,
   .header .menu-icon .navicon:after {
-    background: #333;
+    background: #42DCA3;
     content: '';
     display: block;
     height: 100%;
