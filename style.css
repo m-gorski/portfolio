@@ -559,3 +559,8 @@ button.btn.btn-link i {
   opacity: 1;
   right: 10px;
 }
+
+.carousel-item p{
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+}
