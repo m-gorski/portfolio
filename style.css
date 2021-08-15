@@ -585,3 +585,11 @@ a.button-header:hover{
 	color: white !important;
 	border: 1px solid white;
 }
+
+.sentence{
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 500px;
+	padding: 10px 10px;
+}
