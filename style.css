@@ -87,6 +87,7 @@ a:focus {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    opacity: 0.5;
 }
 .intro .intro-body {
     display: table-cell;
