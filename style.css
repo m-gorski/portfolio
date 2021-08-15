@@ -573,3 +573,10 @@ button.btn.btn-link i {
 
 
 
+a.button-header{
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding: 10px 25px;
+	border: 1px solid #42DCA3;
+	/*color: #42DCA3 !important;*/
+	margin: 0 30px;
+}
