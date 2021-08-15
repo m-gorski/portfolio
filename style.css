@@ -580,3 +580,8 @@ a.button-header{
 	/*color: #42DCA3 !important;*/
 	margin: 0 30px;
 }
+
+a.button-header:hover{
+	color: white !important;
+	border: 1px solid white;
+}
