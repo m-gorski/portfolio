@@ -561,7 +561,7 @@ button.btn.btn-link i {
   right: 10px;
 }
 
-.carousel-item p{
+.carousel-item p, .textAboutMe{
 	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 }
