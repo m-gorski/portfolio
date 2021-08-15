@@ -468,7 +468,6 @@ body {
     background: none;
 }
 .t-p{
-  width: 330px;
   color: rgb(193 206 216);
   padding-bottom: 20px;
 }
@@ -566,6 +565,6 @@ button.btn.btn-link i {
 	font-size: 16px;
 }
 
-/*.offerList{
+.offerList{
 	text-align: left;
-}*/
+}
